@@ -1,0 +1,17 @@
+{
+  "name": "lscodesch",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "michael",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "yarn": "^1.22.4"
+  }
+}
